@@ -2,9 +2,9 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=victoreyeeagle&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoreyeeagle&show_icons=true&theme=tokyonight">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreyeeagle&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreyeeagle&layout=compact&theme=tokyonight">
 
 </div>
 
